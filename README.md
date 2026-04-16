@@ -1,5 +1,12 @@
-# Advanced-Data-Analytics
-Multi-dimensional Data Analytics
+## Advanced Data Analytics using Multi-dimensional Data
+
+#### Goal: analyze patients' motion disorders and determine motion patterns using structured data and video data; help medical device companies enhance products for motion disorders with AI capabilities.
+
+#### This repo provides advanced data analysis and machine learning solutions to detect and analyze human motion disorders & patterns using multi-dimensional data from different resources and providers.
+
+#### [View Code (AdvancedDataAnalytics.ipynb)](AdvancedDataAnalytics.ipynb) for the detailed methods and results.
+
+#### Basic info and selected results are shown below
 
 ![Demo](Results/1.PNG)
 ![Demo](Results/2.PNG)
