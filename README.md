@@ -1,6 +1,6 @@
 ## Advanced Data Analytics using Multi-dimensional Data
 
-#### Goal: analyze patients' motion disorders and determine motion patterns using structured data and video data; help medical device companies enhance products for motion disorders with AI capabilities.
+#### Goal: analyze patients' motion disorders and determine motion patterns using structured data and video data; enable medical device companies to enhance products for motion disorders with AI capabilities.
 
 #### This repo provides advanced data analysis and machine learning solutions to detect and analyze human motion disorders & patterns using multi-dimensional data from different resources and providers.
 
